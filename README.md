@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanket2004-b" alt="sanket2004-b" /></a> </p>
 
-- 🌱 I’m currently learning **I’m currently learning FullStack WebDevlopment**
+- **I’m currently learning FullStack WebDevlopment**
 
-- 💬 Ask me about **Ask me about “Full-Stack Web Developer | CS student | I build web apps with NextJs, React, Node.js, and love turning ideas into interactive, user-friendly solutions.”**
+-  **Ask me about “Full-Stack Web Developer | CS student | I build web apps with NextJs, React, Node.js, and love turning ideas into interactive, user-friendly solutions.”**
 
 - 📫 How to reach me **sanketmarkand7676@gmail.com | 8329235984**
 
